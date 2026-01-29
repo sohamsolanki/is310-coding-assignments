@@ -2,6 +2,7 @@
 
 ## Proof of Installation
 
+### Hypothesis Username: sohamsolanki
 1. Python
 
 ![Python Installation](images/python-installation.png)
@@ -14,4 +15,6 @@
 
 ![VS Code Installation](images/vscode-installation.png)
 
-### Hypothesis Username: sohamsolanki
+4. AI Tool/Workflow
+
+I will be using ChatGPT and Google Gemini to help refine my code and writing, but I will be doing majority of work by myself.
