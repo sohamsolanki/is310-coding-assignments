@@ -76,7 +76,7 @@ This scraper:
 
 ## Output Files
 
-Both files are located in `../web_scraping_assignments/`:
+Both files are located in `../web_scraping/`:
 
 | File | Format | Description |
 |---|---|---|
@@ -95,7 +95,7 @@ pip install cloudscraper beautifulsoup4
 python web-scraping/fandom_wiki_scraping.py
 ```
 
-Output files will be written to `web_scraping_assignments/`.
+Output files will be written to `web_scraping/`.
 
 ---
 
