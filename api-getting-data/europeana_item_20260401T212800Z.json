@@ -1,0 +1,220 @@
+{
+  "search_query": "cloudy sky painting",
+  "item": {
+    "success": true,
+    "statsDuration": 529,
+    "requestNumber": 999,
+    "object": {
+      "about": "/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487",
+      "aggregations": [
+        {
+          "about": "/aggregation/provider/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487",
+          "edmDataProvider": {
+            "def": [
+              "http://data.europeana.eu/organization/4406"
+            ]
+          },
+          "edmIsShownBy": "http://www.culture.gouv.fr/Wave/image/joconde/0540/m506004_91de662_p.jpg",
+          "edmIsShownAt": "http://www.culture.gouv.fr/public/mistral/joconde_fr?ACTION=CHERCHER&FIELD_1=REF&VALUE_1=000PE013487",
+          "edmObject": "http://www.culture.gouv.fr/Wave/image/joconde/0540/m506004_91de662_p.jpg",
+          "edmProvider": {
+            "def": [
+              "http://data.europeana.eu/organization/1572"
+            ]
+          },
+          "edmRights": {
+            "def": [
+              "http://rightsstatements.org/vocab/InC/1.0/"
+            ]
+          },
+          "edmUgc": "false",
+          "aggregatedCHO": "/item/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487",
+          "webResources": [
+            {
+              "about": "http://www.culture.gouv.fr/public/mistral/joconde_fr?ACTION=CHERCHER&FIELD_1=REF&VALUE_1=000PE013487",
+              "textAttributionSnippet": "(en) Table; Pasture, cloudy sky - https://www.europeana.eu/item/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487. Ministe\u0300re de la Culture - http://www.culture.gouv.fr/public/mistral/joconde_fr?ACTION=CHERCHER&FIELD_1=REF&VALUE_1=000PE013487. In Copyright - http://rightsstatements.org/vocab/InC/1.0/",
+              "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487' target='_blank' rel='noopener'>Table; Pasture, cloudy sky</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.culture.gouv.fr/public/mistral/joconde_fr?ACTION=CHERCHER&FIELD_1=REF&VALUE_1=000PE013487' target='_blank' rel='noopener'>Ministe\u0300re de la Culture</a></dd><dt>Country</dt><dd lang=''>France</dd><dt>Rights</dt><dd><a href='http://rightsstatements.org/vocab/InC/1.0/' target='_blank' rel='noopener'><span class='icon-rs-yes'/>In Copyright</a></dd></dl>",
+              "rdfType": "http://www.europeana.eu/schemas/edm/FullTextResource",
+              "ebucoreHasMimeType": "text/html",
+              "ebucoreFileByteSize": 13014
+            },
+            {
+              "about": "http://www.culture.gouv.fr/Wave/image/joconde/0540/m506004_91de662_p.jpg",
+              "textAttributionSnippet": "(en) Table; Pasture, cloudy sky - https://www.europeana.eu/item/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487. Ministe\u0300re de la Culture - http://www.culture.gouv.fr/public/mistral/joconde_fr?ACTION=CHERCHER&FIELD_1=REF&VALUE_1=000PE013487. In Copyright - http://rightsstatements.org/vocab/InC/1.0/",
+              "htmlAttributionSnippet": "<link rel='stylesheet' type='text/css' href='https://api.europeana.eu/attribution/style.css'/><dl class='europeana-attribution' lang='en'><dt>Title</dt><dd lang='en'><a href='http://data.europeana.eu/item/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487' target='_blank' rel='noopener'>Table; Pasture, cloudy sky</a></dd><dt>Institution</dt><dd lang=''><a href='http://www.culture.gouv.fr/public/mistral/joconde_fr?ACTION=CHERCHER&FIELD_1=REF&VALUE_1=000PE013487' target='_blank' rel='noopener'>Ministe\u0300re de la Culture</a></dd><dt>Country</dt><dd lang=''>France</dd><dt>Rights</dt><dd><a href='http://rightsstatements.org/vocab/InC/1.0/' target='_blank' rel='noopener'><span class='icon-rs-yes'/>In Copyright</a></dd></dl>",
+              "dctermsIsReferencedBy": [
+                "https://iiif.europeana.eu/presentation/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487/manifest"
+              ],
+              "ebucoreHasMimeType": "image/jpeg",
+              "ebucoreFileByteSize": 64539,
+              "ebucoreWidth": 800,
+              "ebucoreHeight": 561,
+              "edmHasColorSpace": "sRGB",
+              "edmComponentColor": [
+                "#C0C0C0",
+                "#D2B48C",
+                "#556B2F",
+                "#000000",
+                "#F5DEB3",
+                "#8B4513"
+              ],
+              "ebucoreOrientation": "landscape"
+            },
+            {
+              "about": "https://iiif.europeana.eu/presentation/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487/manifest",
+              "rdfType": "http://iiif.io/api/presentation/3#Manifest"
+            }
+          ],
+          "dqvHasQualityAnnotation": [
+            {
+              "created": "2019-07-16T22:24:15Z",
+              "target": [
+                "/aggregation/provider/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487"
+              ],
+              "body": "http://www.europeana.eu/schemas/epf/contentTier2"
+            },
+            {
+              "created": "2019-07-16T22:24:15.001Z",
+              "target": [
+                "/aggregation/provider/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487"
+              ],
+              "body": "http://www.europeana.eu/schemas/epf/metadataTierA"
+            }
+          ]
+        }
+      ],
+      "edmDatasetName": [
+        "03919_Ag_FR_MCC_JOCONDE_IMAGE"
+      ],
+      "europeanaAggregation": {
+        "about": "/aggregation/europeana/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487",
+        "aggregatedCHO": "/item/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487",
+        "edmCountry": {
+          "def": [
+            "France"
+          ]
+        },
+        "edmLanguage": {
+          "def": [
+            "fr"
+          ]
+        },
+        "edmPreview": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.culture.gouv.fr%2FWave%2Fimage%2Fjoconde%2F0540%2Fm506004_91de662_p.jpg&type=IMAGE",
+        "edmLandingPage": "https://www.europeana.eu/item/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487",
+        "dqvHasQualityAnnotation": [
+          {
+            "created": "2025-07-09T02:42:49.215409682Z",
+            "target": [
+              "/aggregation/europeana/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487"
+            ],
+            "body": "http://www.europeana.eu/schemas/epf/contentTier2"
+          },
+          {
+            "created": "2025-07-09T02:42:49.215413799Z",
+            "target": [
+              "/aggregation/europeana/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487"
+            ],
+            "body": "http://www.europeana.eu/schemas/epf/metadataTierA"
+          }
+        ]
+      },
+      "europeanaCollectionName": [
+        "03919_Ag_FR_MCC_JOCONDE_IMAGE"
+      ],
+      "europeanaCompleteness": 5,
+      "organizations": [
+        {
+          "about": "http://data.europeana.eu/organization/4406",
+          "prefLabel": {
+            "en": [
+              "Ministry of Culture"
+            ],
+            "fr": [
+              "Ministe\u0300re de la Culture"
+            ]
+          }
+        },
+        {
+          "about": "http://data.europeana.eu/organization/1572",
+          "prefLabel": {
+            "en": [
+              "Ribambelle"
+            ]
+          }
+        }
+      ],
+      "providedCHOs": [
+        {
+          "about": "/item/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487"
+        }
+      ],
+      "proxies": [
+        {
+          "about": "/proxy/europeana/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487",
+          "dcRights": {
+            "en": [
+              "France\u2019s Museum Department, 1986",
+              "Picture: \u00a9Meeting of national museums - use subject to authorization"
+            ]
+          },
+          "dcSubject": {
+            "en": [
+              "painting"
+            ]
+          },
+          "dcTitle": {
+            "en": [
+              "Table; Pasture, cloudy sky"
+            ]
+          },
+          "dcType": {
+            "en": [
+              "painting"
+            ]
+          },
+          "proxyIn": [
+            "/aggregation/europeana/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487"
+          ],
+          "proxyFor": "/item/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487",
+          "edmType": "IMAGE",
+          "europeanaProxy": true
+        },
+        {
+          "about": "/proxy/provider/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487",
+          "dcRights": {
+            "fr": [
+              "\u00a9 Direction des mus\u00e9es de France, 1986",
+              "Photo : \u00a9 R\u00e9union des mus\u00e9es nationaux - utilisation soumise \u00e0 autorisation"
+            ]
+          },
+          "dcSubject": {
+            "fr": [
+              "peinture"
+            ]
+          },
+          "dcTitle": {
+            "fr": [
+              "tableau ; Le p\u00e2turage, ciel nuageux"
+            ]
+          },
+          "dcType": {
+            "fr": [
+              "peinture"
+            ]
+          },
+          "proxyIn": [
+            "/aggregation/provider/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487"
+          ],
+          "proxyFor": "/item/03919/public_mistral_joconde_fr_ACTION_CHERCHER_FIELD_1_REF_VALUE_1_000PE013487",
+          "edmType": "IMAGE",
+          "europeanaProxy": false
+        }
+      ],
+      "timestamp_created": "2016-11-02T17:20:55.447Z",
+      "timestamp_created_epoch": 1478107255447,
+      "timestamp_update": "2017-04-28T14:40:28.051Z",
+      "timestamp_update_epoch": 1493390428051,
+      "type": "IMAGE"
+    }
+  }
+}
