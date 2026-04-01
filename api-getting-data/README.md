@@ -3,7 +3,7 @@
 
 A Python script that combines live weather data with cultural heritage records from the Europeana collection.
 
-## APIs Used
+## API Used
 ### Open-Meteo
 [Open-Meteo](https://open-meteo.com/) is a free, open-source weather API with no API key required and no usage limits.
 
@@ -12,9 +12,6 @@ Having worked with paid weather APIs before, like the Weather.com (The Weather C
 Open-Meteo is great as it exposes the same core data (current conditions, hourly forecasts, WMO weather codes, wind, humidity, precipitation) without requiring an account, without rate limits, and without a billing relationship. 
 
 It's also open-source and uses publicly available meteorological models like NOAA GFS and the European ECMWF, so the data quality is legitimate, not a more restricted free tier.
-
-### Europeana
-[Europeana](https://www.europeana.eu/) is the European Union's digital cultural heritage platform, aggregating millions of digitized artworks, photographs, manuscripts, and artifacts from institutions across Europe. The API allows full-text search and detailed record retrieval across this collection. It's used here to surface culturally relevant imagery that mirrors the current weather conditions.
 
 ## How It Works
 
